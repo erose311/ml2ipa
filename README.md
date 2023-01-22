@@ -10,7 +10,6 @@ A Python package for generating IPA pronounciation for a Malayalam word or list 
 
 ## Usage
 ```python
-!pip install ml2ipa==1.0.0
 from ml2ipa import get_ipa
 get_ipa("മഴ")
 ```
